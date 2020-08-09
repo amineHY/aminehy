@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**amineHY/aminehy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Amine, an engineer/scientist in Data Science. I hold a PhD in Signal/Image processing and Machine Learning from the Paris University.
+The reason I have a GitHub account is because I enjoy coding from my laptop.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a web based solutation for my clients
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on an open source project
+
+- 💬 Ask me about anything, I would love to help you.
+
+- 📫 How to reach me: 
+  - Personnal [Website](https://www.amine-hy.com/#)
+  - [LinkedIn profile](https://www.linkedin.com/in/aminehy/)
+  - or Send me an [email](hadjyoucef.amine@gmail.com) 
