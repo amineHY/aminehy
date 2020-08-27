@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
-<h3 align="center">A passionate AI developer and creator. My field of xpertise involve Data Science, Machine Learning and Computer Vision.</h3>
+<h3 align="center">A passionate AI developer and creator. My field of expertise involve Data Science, Machine Learning and Computer Vision.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminehy" alt="aminehy" /> </p>
 
