@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.amine-hy.com/](https://www.amine-hy.com/)
 
-- 📝 I regulary write blog post on [https://medium.com/@Amine_hy](https://medium.com/@Amine_hy)
+- 📝 I regulary write blog post on [Medium](https://amine-hy.medium.com/)
 
 - 💬 Ask me about **Algorithm, Machine Learning, Computer Vision, Science**
 
