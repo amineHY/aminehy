@@ -19,8 +19,6 @@
     <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" height="40"/> 
-
-
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgreSQL" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/> 
@@ -29,6 +27,8 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="GCP" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" height="40"/>  
+    <img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" height="40"/>  
+    
   </p>
 
   <p>
