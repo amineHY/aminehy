@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
-<h3 align="center"> I am passionate about solving problem to make our life better. I build solutions by processing data and developing computer algorithms. I have over 5 years of cross-sector experience in R&D of AI solution for startups and world’s biggest brand - spatial, aerospatial, IoT, EdTech.</h3>
+<h3 align="center"> I am passionate about solving problem to make our life better. I build solutions by processing data and developing computer algorithms. I have over 5 years of cross-sector experience in R&D of AI solution for startups and world’s biggest brand.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminehy" alt="aminehy" /> </p>
 
