@@ -40,6 +40,5 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/aminehy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aminehy" height="30" width="30" /></a>
-  
 <a href="https://medium.com/@amine_hy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@amine_hy" height="30" width="30" /></a>
 </p>
