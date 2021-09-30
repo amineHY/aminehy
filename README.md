@@ -30,11 +30,9 @@
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" height="40"/>  
     <img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" height="40"/>  
     <img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" alt="databricks" height="40"/>  
-  
-    
   </p>
 
-  <p>
+<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminehy&layout=compact&hide=html" alt="aminehy" />
 </p>
 
@@ -42,7 +40,6 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/aminehy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aminehy" height="30" width="30" /></a>
-  
   
 <a href="https://medium.com/@amine_hy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@amine_hy" height="30" width="30" /></a>
 </p>
