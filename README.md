@@ -30,6 +30,9 @@
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" height="40"/>  
     <img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" height="40"/>  
     <img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" alt="databricks" height="40"/>  
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="databricks" height="40"/>  
+  
+  
   </p>
 
 <p>
