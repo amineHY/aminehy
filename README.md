@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
-<h3 align="center"> I am passionate about solving problem using technilogy</h3>
+<h3 align="center"> I am passionate about solving problem using technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminehy" alt="aminehy" /> </p>
 
