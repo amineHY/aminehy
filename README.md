@@ -1,15 +1,14 @@
 
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=aminehy](https://komarev.com/ghpvc/?username=aminehy)" alt="aminehy" /> </p>
+<h1 align="center">Hi 👋, I'm Amine</h1>
+<h3 align="center"> I am passionate about solving problem using technology</h3>
 
-<h1 align="center">👋 Hi, It's Amine</h1>
-<h3 align="center"> I am a Data Scientist, passionate about solving problem using technology</h3>
-
-- 📝 My blog posts can be found on [Medium](https://amine-hy.medium.com/)
+- 👨‍💻 All of my projects are available at [https://www.amine-hy.com/](https://www.amine-hy.com/)
+- 📝 I regulary write blog post on [Medium](https://amine-hy.medium.com/)
 - 💬 Ask me about **Algorithm, Machine Learning, Computer Vision, Science**
-- 📧 Reach out to me [hadjyoucef.amine@gmail.com](mailto:hadjyoucef.amine@gmail.com)
-- Software I use
-
-  <p align="left"> <img src="[https://komarev.com/ghpvc/?username=aminehy](https://komarev.com/ghpvc/?username=aminehy)" alt="aminehy" /> </p>
-
+- Contact me: [hadjyoucef.amine@gmail.com](mailto:hadjyoucef.amine@gmail.com)
+- Tools I use:
+    
     <p align="left">
     <img src="[https://www.vectorlogo.zone/logos/linux/linux-ar21.svg](https://www.vectorlogo.zone/logos/linux/linux-ar21.svg)" alt="linux" height="40"/>
     <img src="[https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg)" alt="bash" height="40"/>
