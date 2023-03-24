@@ -55,11 +55,11 @@ image:https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg[tensorflo
 image:https://swimburger.net/media/ppnn3pcl/azure.png[azure, width=60]
 image:https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg[AWS,width=80]
 image:https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg[GCP,width=80]
-image:https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png[databricks,width=80]
+image:https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png[databricks,width=100]
 
 // IDEs
 image:https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg[jupyter,width=80]
-image:https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg[vscode,width=80]
+image:https://code.visualstudio.com/assets/images/code-stable.png[vscode,width=60]
 
 
 // Backend
