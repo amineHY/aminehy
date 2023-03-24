@@ -1,0 +1,57 @@
+= Hi, I’m Amine 👋
+
+[pass]
+++++
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=aminehy" alt="aminehy" />
+</p>
+++++
+
+image::LinkedIn cover - 1.png[]
+
+
+I’m a consultant specializing in data science and machine learning. My
+goal is to help businesses develop innovative solutions using artificial
+intelligence and data to make the world a better place.
+
+In addition to my consulting work, I also write blog articles on Medium
+about various topics in data science and AI. If you’re interested in
+connecting with me, feel free to reach out via LinkedIn or email.
+
+
+image:https://cdn-icons-png.flaticon.com/512/61/61109.png[width=30, link="https://www.linkedin.com/in/aminehy/"]
+
+image:https://cdn-icons-png.flaticon.com/512/5968/5968885.png[ link="https://amine-hy.medium.com/", width=30]
+
+image:https://cdn-icons-png.flaticon.com/512/646/646094.png[link="mailto:hadjyoucef.amine@gmail.com", width=30]
+
+== Technical tools
+image:https://www.vectorlogo.zone/logos/linux/linux-ar21.svg[linux,width=80]
+image:https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg[bash,width=80]
+image:https://www.vectorlogo.zone/logos/python/python-official.svg[python,width=80]
+
+image:https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg[jupyter,width=80]
+image:https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg[vscode,width=80]
+image:https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg[postgreSQL,width=80]
+
+image:https://www.vectorlogo.zone/logos/redis/redis-official.svg[linux,width=80]
+image:https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg[opencv,height=45]
+image:https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg[opencv,width=80]
+
+image:https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg[opencv,width=80]
+image:https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg[pytorch,width=50]
+image:https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg[tensorflow,width=80]
+
+image:https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg[git,width=80]
+image:https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg[git,width=80]
+image:https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg[flask,width=80]
+
+[pass]
+++++
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminehy&show_icons=true" alt="aminehy" />
+
+<img align="center" alt="aminehy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminehy&layout=compact&hide=html"/>
+
+++++
+
+
