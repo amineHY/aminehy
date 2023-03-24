@@ -52,8 +52,8 @@ image:https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg[tensorflo
 
 
 // Cloud
+image:https://swimburger.net/media/ppnn3pcl/azure.png[azure, width=60]
 image:https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg[AWS,width=80]
-image:https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg[databricks, width=80]
 image:https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg[GCP,width=80]
 image:https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png[databricks,width=80]
 
