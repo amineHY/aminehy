@@ -79,7 +79,7 @@ image:https://www.vectorlogo.zone/logos/redis/redis-official.svg[linux,width=80]
 // Structured Files
 image:https://www.vectorlogo.zone/logos/json/json-ar21.svg[json,width=80]
 image:https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg[yml,width=80]
-image:https://www.pikpng.com/pngl/m/574-5744237_blue-sparks-png.png[delta,width=80]
+image:https://www.databricks.com/wp-content/uploads/2019/05/delta-lake-square.png[delta,width=80]
 image:assets/images/Apache_Parquet_logo.svg[parquet,width=80]
 
 // Project managment
