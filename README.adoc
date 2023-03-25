@@ -49,7 +49,7 @@ image:https://www.databricks.com/wp-content/uploads/2019/04/logo-scikit-learn.pn
 image:https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg[opencv,width=80]
 image:https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg[pytorch,width=50]
 image:https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg[tensorflow,width=80]
-
+image:https://mlflow.org/docs/0.2.1/_static/MLflow-logo-final-black.png[mlflow,width=80]
 
 // Cloud
 image:https://swimburger.net/media/ppnn3pcl/azure.png[azure, width=60]
