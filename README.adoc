@@ -1,7 +1,9 @@
 == Amine Hadj-Youcef | Technical Lead – Data & AI Platforms
 
-// Badges
-image:https://img.shields.io/github/followers/aminehy?style=social[Followers] image:https://img.shields.io/github/stars/aminehy?style=social[Stars] image:https://img.shields.io/github/last-commit/aminehy/aminehy[Last Commit] image:https://img.shields.io/badge/Focus-Data%20%26%20AI%20Platforms-blue[Focus]
+image:https://img.shields.io/github/followers/aminehy?style=social[Followers]
+image:https://img.shields.io/github/stars/aminehy?style=social[Stars]
+image:https://img.shields.io/github/last-commit/aminehy/aminehy[Last Commit]
+image:https://img.shields.io/badge/Focus-Data%20%26%20AI%20Platforms-blue[Focus]
 
 A technical lead and cloud/data platforms architect focused on building reliable, observable, cost-aware AI & analytics foundations (MLOps + LLMOps + data engineering). I help teams ship production ML and GenAI responsibly.
 
@@ -30,23 +32,37 @@ Python, Spark, Delta Lake, Databricks, MLflow, PyTorch, TensorFlow, Terraform, G
 * OSS experimentation: RAG, semantic search, multi-agent orchestration
 
 === How I Work
-Pragmatic architecture • Shift-left governance • Deterministic builds • Automation-first • Measured performance & drift • Continuous enablement.
+* Pragmatic architecture
+* Shift-left governance
+* Deterministic builds
+* Automation-first
+* Measured performance & drift
+* Continuous enablement
 
 === Publications (Selected)
-Detection of epileptics during seizure free periods | Convolution kernels for multi-wavelength imaging | Spatio-Spectral Multichannel Reconstruction from few Low-Resolution Multispectral Data | Restoration of astrophysical objects from multispectral data
+* Detection of epileptics during seizure free periods
+* Convolution kernels for multi-wavelength imaging
+* Spatio-Spectral Multichannel Reconstruction from few Low-Resolution Multispectral Data
+* Restoration of astrophysical objects from multispectral data
 
 === Certifications
-Neural Networks and Deep Learning | Improving Deep Neural Networks | Workshop on System and Signal Processing and their Applications
+* Neural Networks and Deep Learning
+* Improving Deep Neural Networks
+* Workshop on System and Signal Processing and their Applications
 
 === GitHub Stats
 [pass]
 +++
 <img src="https://github-readme-stats.vercel.app/api?username=aminehy&show_icons=true" alt="GitHub contribution stats" />
+
 <img alt="Top languages (excluding HTML)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminehy&layout=compact&hide=html"/>
 +++
 
 === Contact
-image:https://cdn-icons-png.flaticon.com/512/61/61109.png[width=18, alt="LinkedIn", link="https://www.linkedin.com/in/aminehy/"] image:https://cdn-icons-png.flaticon.com/512/646/646094.png[width=18, alt="Email", link="mailto:hadjyoucef.amine@gmail.com"] image:https://cdn-icons-png.flaticon.com/512/5968/5968885.png[width=18, alt="Medium", link="https://amine-hy.medium.com/"] image:https://raw.githubusercontent.com/asciidoctor/brand/main/logo/logo-fill-color.svg[width=18, alt="Site", link="https://aminehy.github.io/"]
+image:https://cdn-icons-png.flaticon.com/512/61/61109.png[LinkedIn,width=18,link="https://www.linkedin.com/in/aminehy/"]
+image:https://cdn-icons-png.flaticon.com/512/646/646094.png[Email,width=18,link="mailto:hadjyoucef.amine@gmail.com"]
+image:https://cdn-icons-png.flaticon.com/512/5968/5968885.png[Medium,width=18,link="https://amine-hy.medium.com/"]
+image:https://raw.githubusercontent.com/asciidoctor/brand/main/logo/logo-fill-color.svg[Site,width=18,link="https://aminehy.github.io/"]
 
 // Footer note (optional)
 // Interested in a one-page PDF profile? Reach out via LinkedIn or email.
